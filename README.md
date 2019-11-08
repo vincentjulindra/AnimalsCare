@@ -22,21 +22,30 @@ App Mobile yang bertujuan untuk pemilik hewan yang ingin diadopsi & untuk orang 
 ## Berikut Tampilan Aplikasi AnimalsCare :
 ## 1. Tampilan Awal                                  
 <img src="screenshots/1.png" height=500>
+
 ## 2. Tampilan Login                                  
 <img src="screenshots/2.png" height=500>
-## 1. Tampilan Sign Up                                  
+
+## 3. Tampilan Sign Up                                  
 <img src="screenshots/3.png" height=500>
-## 1. Tampilan Home                                  
+
+## 4. Tampilan Home                                  
 <img src="screenshots/4.png" height=500>
-## 1. Tampilan Detail                                  
+
+## 5. Tampilan Detail                                  
 <img src="screenshots/5.png" height=500>
-## 1. Tampilan Menu Side Bar                                  
+
+## 6. Tampilan Menu Side Bar                                  
 <img src="screenshots/6.png" height=500>
-## 1. Tampilan Profile                                  
+
+## 7. Tampilan Profile                                  
 <img src="screenshots/7.png" height=500>
-## 1. Tampilan Form Adopt                                  
+
+## 8. Tampilan Form Adopt                                  
 <img src="screenshots/8.png" height=500>
-## 1. Tampilan Sukses Daftar Adopt                                 
+
+## 9. Tampilan Sukses Daftar Adopt                                 
 <img src="screenshots/9.png" height=500>
-## 1. Tampilan Setting                                  
+
+## 10. Tampilan Setting                                  
 <img src="screenshots/10.png" height=500>
