@@ -1,4 +1,4 @@
-# AnimalsCare 
+# AnimalsCare (Project UTS)
 Note : File lengkap dapat di download via google drive https://drive.google.com/open?id=1d4i2aPSlfo_l-Ws-b8iBEiAz1NjycRtm . Terima kasih
 <br> Kelompok :
 <br>- Heven (20175520002) 
@@ -19,6 +19,7 @@ App Mobile yang bertujuan untuk pemilik hewan yang ingin diadopsi & untuk orang 
 - Menu Profile berguna sebagai pemilik hewan/pengadopsi yang ingin melihat/mengubah data diri mereka.
 - Menu Close untuk Log Out Account.
 
+## Screenshots
 ## Berikut Tampilan Aplikasi AnimalsCare :
 ## 1. Tampilan Awal                                  
 <img src="screenshots/1.png" height=500>
@@ -49,3 +50,30 @@ App Mobile yang bertujuan untuk pemilik hewan yang ingin diadopsi & untuk orang 
 
 ## 10. Tampilan Setting                                  
 <img src="screenshots/10.png" height=500>
+
+## Built With
+- Row
+- Column
+- Image
+- Card
+- Appbar
+- Sidebar
+- Button
+- Navigator
+- Inputtext
+- 
+
+## Created By
+1. Heven
+  - Tampilan Sign Up
+  - Tampilan Detail
+  - Tampilan Profile
+  - Tampilan Sukses Daftar Adopt
+  - Tampilan Setting
+  
+2. Vincent Julindra
+  - Tampilan Awal
+  - Tampilan Login
+  - Tampilan Home
+  - Tampilan Menu Side Bar
+  - Tampilan Form Adopt
