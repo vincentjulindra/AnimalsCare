@@ -19,8 +19,8 @@ App Mobile yang bertujuan untuk pemilik hewan yang ingin diadopsi & untuk orang 
 - Menu Profile berguna sebagai pemilik hewan/pengadopsi yang ingin melihat/mengubah data diri mereka.
 - Menu Close untuk Log Out Account.
 
-## Screenshots
-## Berikut Tampilan Aplikasi AnimalsCare :
+## Screenshots :
+Berikut Tampilan Aplikasi AnimalsCare :
 ## 1. Tampilan Awal                                  
 <img src="screenshots/1.png" height=500>
 
