@@ -1,5 +1,5 @@
 # AnimalsCare (Project UTS)
-Note : File lengkap dapat di download via google drive https://drive.google.com/open?id=1d4i2aPSlfo_l-Ws-b8iBEiAz1NjycRtm . Terima kasih
+Note : File lengkap dapat di download via google drive https://drive.google.com/open?id=1d4i2aPSlfo_l-Ws-b8iBEiAz1NjycRtm . Terima kasih.
 <br> Kelompok :
 <br>- Heven (20175520002) 
 <br>- Vikrie Alfiansyah (20175520005) 
