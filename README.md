@@ -10,15 +10,6 @@ Note : File lengkap dapat di download via google drive https://drive.google.com/
 ## Deskripsi : 
 App Mobile yang bertujuan untuk pemilik hewan yang ingin diadopsi & untuk orang yang ingin mengadopsi hewan. App ini memudahkan untuk pemilik hewan maupun pecinta hewan untuk menemukan hewan yang diinginkan. 
 
-## Fitur : 
-- Login & Sign Up untuk pemilik hewan yang ingin diadopsi maupun yang mau mengadopsi. 
-- Menu Home akan berisi Hewan-hewan yang belum diadopsi.
-- Menu News akan berisi tentang hewan-hewan adopsi yang baru di masukan ke app.
-- Menu Adopt berguna untuk pemilik hewan yang ingin diadopsi hewannya. Nanti akan dilanjutkan dengan mengisi data diri & jenis hewan tersebut.
-- Menu Setting berguna untuk memilih bahasa aplikasi yang dipakai.
-- Menu Profile berguna sebagai pemilik hewan/pengadopsi yang ingin melihat/mengubah data diri mereka.
-- Menu Close untuk Log Out Account.
-
 ## Screenshots :
 ## 1. Tampilan Awal                                  
 <img src="screenshots/1.png" height=500>
@@ -60,18 +51,23 @@ App Mobile yang bertujuan untuk pemilik hewan yang ingin diadopsi & untuk orang 
 - Button
 - Navigator
 - Inputtext
+- Textfield
 
 ## Created By :
 1. Heven
-  - Tampilan Sign Up
-  - Tampilan Detail
-  - Tampilan Profile
-  - Tampilan Sukses Daftar Adopt
-  - Tampilan Setting
+  - main.dart
+  - home.dart
+  - dog.dart
+  - myaccount.dart
   
-2. Vincent Julindra
-  - Tampilan Awal
-  - Tampilan Login
-  - Tampilan Home
-  - Tampilan Menu Side Bar
-  - Tampilan Form Adopt
+2. Vikrie Alfiansyah
+  - detail.dart
+  - daftar.dart
+  - setting.dart
+  - pilihbahasa.dart
+  
+3. Yeni Kurniawati
+  - login.dart
+  - adopt.dart
+  - selesai.dart
+  
